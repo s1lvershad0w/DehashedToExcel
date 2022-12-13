@@ -3,7 +3,7 @@
 ###### Usage
 
 ```
-python Dehashed_to_Excel.py -d 'mandiant.com' -u 'user@gmail.com' -k '12lkhlas7qhpdik2qxth1ue22kj0asdasd'
+python DehashedToExcel.py -d 'mandiant.com' -u 'user@gmail.com' -k '12lkhlas7qhpdik2qxth1ue22kj0asdasd'
 
  ____       _               _              _ _____     _____              _ 
 |  _ \  ___| |__   __ _ ___| |__   ___  __| |_   _|__ | ____|_  _____ ___| |
