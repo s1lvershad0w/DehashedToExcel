@@ -1,7 +1,14 @@
 ## DehashedToExcel
 
-###### Usage
+###### Install
 
+```
+git clone https://github.com/s1lvershad0w/DehashedToExcel.git
+cd DehashedToExcel
+pip install -r requirements.txt
+```
+
+###### Usage
 ```
 python DehashedToExcel.py -d 'mandiant.com' -u 'user@gmail.com' -k '12lkhlas7qhpdik2qxth1ue22kj0asdasd'
 
