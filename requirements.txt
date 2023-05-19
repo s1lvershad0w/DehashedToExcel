@@ -1,7 +1,7 @@
-aspose_cells==22.12.0
-JPype1==1.4.1
-openpyxl==3.0.10
-pandas==1.5.2
-pyfiglet==0.8.post1
-requests==2.20.0
-argparse==1.4.0
+aspose_cells
+JPype1
+openpyxl
+pandas
+pyfiglet
+requests
+argparse
